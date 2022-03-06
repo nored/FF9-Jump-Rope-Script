@@ -309,7 +309,7 @@ if (ButtonChoice = 2)
 return
 
 GrabRemotePlay:
-WinGet, remotePlay_id, List, ahk_exe RemotePlay.exe
+WinGet, remotePlay_id, List, ahk_exe FF9.exe
 if (remotePlay_id = 0)
 {
 	MsgBox, PS4 Remote Play not found
