@@ -5,7 +5,7 @@
 
 // Updated 6/7/2020 with QueueTip's script with user friendliness in mind
 
-// This script is used to help get people the Final Fantasy 9 Hail to the King trophy on PS4
+// This script is used to help get people the Final Fantasy 9 Hail to the King trophy on the __Steam Version of FF9__
 
 // 
 
