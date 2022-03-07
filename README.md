@@ -1,4 +1,4 @@
-# FF9 jump rope script
+# FF9 jump rope script (PC STEAM Version)
 
 1. open game in window mode
 2. choose 1044x720 as resolution
