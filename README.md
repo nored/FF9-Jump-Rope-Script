@@ -1,34 +1,9 @@
-# FF9 Jump Rope Script
+# FF9 jump rope script
 
-
-// Made 9/24/17, by Septomor/ByPrinciple
-
-// Updated 6/7/2020 with QueueTip's script with user friendliness in mind
-
-// This script is used to help get people the Final Fantasy 9 Hail to the King trophy on the __Steam Version of FF9__
-
-// 
-
-// How to use:
-
-//  1. Have Vivi talk to the girls and standing ready to take his first jump
-
-//  2. Run jump.ahk by double clicking 
-
-//  3. Press Start button
-
-//  4. Press 'ctrl + esc' on your keyboard to close script
-
-//  5. Wait for 1,000 jumps
-
-//
-
-// How to improve innacuracies:
-
-//  1. Run jump.ahk as administrator
-
-// 
-
-// That is it, hopefully
-
-// 
+1. open game in window mode
+2. choose 1044x720 as resolution
+3. limit FPS to 30
+4. download and install AutoHotkey + SciTE4AutoHotkey 
+5. download and double click on the script
+6. script learns thresholds by itself, if performance is poor, add to thresholds manually 
+7. enjoy 
